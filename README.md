@@ -39,7 +39,7 @@ Setup
 
     sh
 
-git clone https://github.com/yourusername/amazon-virgosol-selenium-pom-project.git
+git clone https://github.com/mtaksel/amazon-virgosol-selenium-pom-project.git
 
 Navigate to the project directory:
 
