@@ -1,7 +1,7 @@
 Amazon-Virgosol-Selenium-POM-Project
 
 This project demonstrates a comprehensive automated test scenario for the Amazon Turkey website (https://www.amazon.com.tr/) using Selenium WebDriver with the Page Object Model (POM) design pattern. The primary objective is to ensure the smooth operation of key functionalities such as searching for a product, adding it to the cart, and removing it from the cart.
-Project Structure
+
 
 The project follows the Page Object Model (POM) structure, which includes:
 
